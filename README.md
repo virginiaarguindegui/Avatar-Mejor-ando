@@ -18,7 +18,7 @@ Parámetros aplicados:
 
 ## 3. Proceso de Sincronización Labial
 * **Herramienta utilizada:**HeyGen.
-* **Flujo de trabajo:** Use el avatar para crear video. Utilice HeyGen, seleccione la imagen de mi personaje, adjunte el audio creado con Elevenlabs y se creo el video.
+* **Flujo de trabajo:** Use el avatar para crear video. Utilice HeyGen, seleccione la imagen de mi personaje, adjunte el audio creado con Elevenlabs y se creo el video. Como la pagina no me permmitio descargar el video, tuve que grabar pantalla, editar el formato y adjuntar por separado el audio original con la musica de Suno.
 
 ## 4. Banda Sonora y Mezcla de Audio
 * **Herramienta musical:** Suno
