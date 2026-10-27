@@ -5,7 +5,7 @@
 El desorden de tareas no solo satura tu agenda; drena tu energía y te aleja de tus objetivos.
 En Mejor-ando creemos que la claridad no es suerte: es método. Diseñar un sistema consciente de trabajo te devuelve el foco y la tranquilidad para liderar tu día.
 Empezá hoy a ordenar tus prioridades. Guardá este video y contame en comentarios: ¿Cuál es tu mayor distracción hoy?»
-* **Guion generado:** "(Pegá acá el texto exacto que dice tu avatar en el video)".
+
 
 ## 2. Identidad de Voz (ElevenLabs)
 * **Voz seleccionada:** Barbie.
