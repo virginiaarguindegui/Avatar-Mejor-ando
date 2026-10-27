@@ -19,3 +19,8 @@ Parámetros aplicados:
 ## 3. Proceso de Sincronización Labial
 * **Herramienta utilizada:**HeyGen.
 * **Flujo de trabajo:** Use el avatar para crear video. Utilice HeyGen, seleccione la imagen de mi personaje, adjunte el audio creado con Elevenlabs y se creo el video.
+
+## 4. Banda Sonora y Mezcla de Audio
+* **Herramienta musical:** Suno
+* **Prompt de música:** Estilo Folk indie acústico con guitarra acústica brillante tocada con los dedos, bajo melódico cálido, ligeros pisotones y palmas, y suaves toques de piano; producción limpia y despejada con espacio para la voz; instrumental; ritmo alegre de 95 BPM, enérgico pero acogedor y esperanzador.
+* **Nivelación de mezcla:** Pista musical integrada de fondo al 18% del volumen total (-20 dB aprox.) para garantizar inteligibilidad absoluta y protagonismo de la voz principal.
